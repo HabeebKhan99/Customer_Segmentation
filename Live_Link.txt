@@ -1,0 +1,4 @@
+﻿Customer_segmentation-Live Demo
+
+
+https://customersegmentation-gko9vnrajna5s6tjfbrxx6.streamlit.app/
